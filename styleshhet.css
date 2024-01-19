@@ -1,0 +1,37 @@
+.main {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.logo-img {  
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+.input-search {
+    margin-top: 30px;
+    width: 600px;
+    line-height: 20px;
+    font-size: 20px;
+    padding: 10px 30px;
+    border: 1px solid #ccced4;
+    border-radius: 30px;
+    box-shadow: 5px -5px 100px rgb(201, 204, 207);
+    
+}
+ 
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    column-gap: 5px;
+}
+.but1 {
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    width: 200px;
+    padding:  8px 16px;
+    border: none;
+    background:#d6d3d3 ;
+    border-radius: 2px;
+}
